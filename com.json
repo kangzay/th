@@ -1,0 +1,41 @@
+{
+  "pc": "com.fathanalfaqih.compasspenghasiluang2021",
+  "kang_zayvius": [      
+     {
+      "id": "1",
+      "tittle": "Pendahuluan",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/compas_guide/a.html",
+      "images": "https://lh3.googleusercontent.com/kHNC1ktjjiRiztgnq2rXAfJp3Gj_97wbJobHYmFICsehPk4B3iuesliKmjDypYTq8RcQJDMz20X6cdmKOXIG4R0HSI4fdFzi3JA"
+     },
+     {
+      "id": "2",
+      "tittle": "Cara Mengunduh",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/compas_guide/d.html",
+      "images": "https://lh3.googleusercontent.com/kHNC1ktjjiRiztgnq2rXAfJp3Gj_97wbJobHYmFICsehPk4B3iuesliKmjDypYTq8RcQJDMz20X6cdmKOXIG4R0HSI4fdFzi3JA"
+     },
+    {
+      "id": "3",
+      "tittle": "Cara Menggunakan",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/compas_guide/b.html",
+      "images": "https://lh3.googleusercontent.com/kHNC1ktjjiRiztgnq2rXAfJp3Gj_97wbJobHYmFICsehPk4B3iuesliKmjDypYTq8RcQJDMz20X6cdmKOXIG4R0HSI4fdFzi3JA"
+     },
+    {
+      "id": "3",
+      "tittle": "Cara Menggunakan Part 2",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/compas_guide/c.html",
+      "images": "https://lh3.googleusercontent.com/kHNC1ktjjiRiztgnq2rXAfJp3Gj_97wbJobHYmFICsehPk4B3iuesliKmjDypYTq8RcQJDMz20X6cdmKOXIG4R0HSI4fdFzi3JA"
+     },
+    {
+      "id": "5",
+      "tittle": "Cara Kerja",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/compas_guide/e.html",
+      "images": "https://lh3.googleusercontent.com/kHNC1ktjjiRiztgnq2rXAfJp3Gj_97wbJobHYmFICsehPk4B3iuesliKmjDypYTq8RcQJDMz20X6cdmKOXIG4R0HSI4fdFzi3JA"
+     },
+    {
+      "id": "6",
+      "tittle": "Apakah Penipuan?",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/compas_guide/f.html",
+      "images": "https://lh3.googleusercontent.com/kHNC1ktjjiRiztgnq2rXAfJp3Gj_97wbJobHYmFICsehPk4B3iuesliKmjDypYTq8RcQJDMz20X6cdmKOXIG4R0HSI4fdFzi3JA"
+     }
+  ]
+}
